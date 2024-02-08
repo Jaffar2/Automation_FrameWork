@@ -19,7 +19,7 @@ public class Testcase1 extends BaseTest{
 	  homePage.signInButton();
 	  logger.info("verify if Login Text is present");
 	  loginPage.verifyIfLoginPageIsLoaded();
-	  logger.info("Enter credentials");
+	  logger.info("Enter valid credentials");
 	  loginPage.enterCredentials();
 	  logger.info("verify if Login successful");
 	  

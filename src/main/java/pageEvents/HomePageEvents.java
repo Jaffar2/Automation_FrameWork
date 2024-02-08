@@ -1,6 +1,5 @@
 package pageEvents;
 
-import base.BaseTest;
 import pageObjects.HomePageElements;
 import utils.ElementFetch;
 
